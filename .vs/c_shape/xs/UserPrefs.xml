@@ -1,9 +1,16 @@
 ﻿<Properties StartupConfiguration="{A73D1CF7-3E76-4169-89C4-4A0F127A5CDA}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="c_shape/test.cs">
+    <Files>
+      <File FileName="c_shape/test.cs" Line="7" Column="10" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="c_shape" expanded="True" selected="True" />
+          <Node name="c_shape" expanded="True">
+            <Node name="c_shape" expanded="True">
+              <Node name="test.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

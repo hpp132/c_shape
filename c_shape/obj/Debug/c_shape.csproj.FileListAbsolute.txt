@@ -1,0 +1,6 @@
+/Users/hpp/Documents/private/c_shape/c_shape/obj/Debug/c_shape.csproj.AssemblyReference.cache
+/Users/hpp/Documents/private/c_shape/c_shape/obj/Debug/c_shape.csproj.CoreCompileInputs.cache
+/Users/hpp/Documents/private/c_shape/c_shape/bin/Debug/c_shape.exe
+/Users/hpp/Documents/private/c_shape/c_shape/bin/Debug/c_shape.pdb
+/Users/hpp/Documents/private/c_shape/c_shape/obj/Debug/c_shape.exe
+/Users/hpp/Documents/private/c_shape/c_shape/obj/Debug/c_shape.pdb
